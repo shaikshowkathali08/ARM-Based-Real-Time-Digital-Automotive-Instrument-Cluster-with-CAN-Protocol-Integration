@@ -144,7 +144,7 @@ Node B receives the signal and performs blinking animation on LCD and LEDs.
 
 # Concepts Implemented
 
-- ARM7 LPC21xx Programming
+- ARM7 LPC2129 Programming
 - Embedded C
 - CAN Protocol
 - Interrupt Handling
@@ -157,7 +157,7 @@ Node B receives the signal and performs blinking animation on LCD and LEDs.
 
 # Hardware Requirements
 
-- LPC21xx ARM7 Development Board
+- LPC2129 ARM7 Development Board
 - CAN Transceiver Module
 - LCD 16x2 Display
 - Push Buttons/Switches
@@ -248,6 +248,6 @@ This project is developed for educational and learning purposes only.
 
 # References
 
-- LPC21xx User Manual
+- LPC2129 User Manual
 - CAN Protocol Documentation
 - ARM7 Embedded System Concepts
