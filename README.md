@@ -2,7 +2,7 @@
 Developed an ARM-based real-time digital automotive instrument cluster using Embedded C and CAN protocol to monitor speed, RPM, fuel level, and temperature. Integrated sensor interfacing, CAN communication, and LCD/TFT display for reliable real-time vehicle data monitoring.
 
 ## Overview
-This project implements a real-time automotive instrument cluster using the LPC21xx ARM7 microcontroller and CAN (Controller Area Network) protocol. The system is divided into two communicating nodes: Node A (Transmitter ECU) and Node B (Receiver ECU/Dashboard Unit).
+This project implements a real-time automotive instrument cluster using the LPC2129 ARM7 microcontroller and CAN (Controller Area Network) protocol. The system is divided into two communicating nodes: Node A (Transmitter ECU) and Node B (Receiver ECU/Dashboard Unit).
 
 Node A acquires sensor and switch data, processes it, and transmits vehicle parameters over the CAN bus. Node B receives the CAN messages and displays vehicle information on an LCD while controlling indicators and headlight status.
 
